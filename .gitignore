@@ -1,3 +1,5 @@
 *~
 *.swp
 sed/tmp*
+sed/test.sh
+awk/tmp*
